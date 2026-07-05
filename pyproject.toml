@@ -1,0 +1,11 @@
+[project]
+name = "autonomous-agri-price-pipeline"
+version = "0.1.0"
+description = "Automated agricultural price data pipeline for maize and rice in sub-Saharan Africa"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "pandas",
+    "requests",
+    "matplotlib"
+]
